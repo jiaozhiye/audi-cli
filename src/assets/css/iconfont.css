@@ -1,0 +1,88 @@
+/**
+ * @Author: 焦质晔
+ * @Date: 2019-06-20 10:00:00
+ * @Last Modified by:   焦质晔
+ * @Last Modified time: 2019-06-20 10:00:00
+ */
+@font-face {
+  font-family: 'iconfont';
+  src: url('../fonts/iconfont.eot?t=1567214741873'); /* IE9 */
+  src: url('../fonts/iconfont.eot?t=1567214741873#iefix') format('embedded-opentype'), /* IE6-IE8 */ url('../fonts/iconfont.woff?t=1567214741873') format('woff'),
+    url('../fonts/iconfont.ttf?t=1567214741873') format('truetype'); /* chrome, firefox, opera, Safari, Android, iOS 4.2+ */
+}
+
+.iconfont {
+  font-family: 'iconfont' !important;
+  font-size: 14px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-bangzhu:before {
+  content: '\e62c';
+}
+
+.icon-xiazai:before {
+  content: '\e60b';
+}
+
+.icon-delete:before {
+  content: '\e63e';
+}
+
+.icon-search:before {
+  content: '\e601';
+}
+
+.icon-icon--:before {
+  content: '\e71e';
+}
+
+.icon-daochu:before {
+  content: '\e600';
+}
+
+.icon-daoru:before {
+  content: '\e602';
+}
+
+.icon-yulan:before {
+  content: '\e603';
+}
+
+.icon-yingyongguanli:before {
+  content: '\eb67';
+}
+
+.icon-baocun:before {
+  content: '\ec09';
+}
+
+.icon-fabu:before {
+  content: '\ec0a';
+}
+
+.icon-guolvqi:before {
+  content: '\e70e';
+}
+
+.icon-appxiazai:before {
+  content: '\e615';
+}
+
+.icon-weixin:before {
+  content: '\e614';
+}
+
+.icon-shaixuan:before {
+  content: '\e671';
+}
+
+.icon-xinzeng:before {
+  content: '\e690';
+}
+
+.icon-dayin:before {
+  content: '\e60f';
+}
